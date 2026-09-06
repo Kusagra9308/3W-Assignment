@@ -2,9 +2,9 @@
 
 A full-stack Mini Social Post application built for the **3W Full Stack Internship Assignment**, inspired by the **TaskPlanet App** social feed.
 
----
 
-## 🌟 Key Features
+
+##  Key Features
 
 - **Authentication (Access & Refresh Tokens)**:
   - Secure JWT authentication with short-lived **Access Tokens** (15 minutes) and long-lived **Refresh Tokens** (7 days stored in MongoDB).
@@ -22,7 +22,7 @@ A full-stack Mini Social Post application built for the **3W Full Stack Internsh
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 .
@@ -65,7 +65,7 @@ A full-stack Mini Social Post application built for the **3W Full Stack Internsh
 
 ---
 
-## 🚀 Local Quickstart
+##  Local Quickstart
 
 ### 1. Backend Setup
 ```bash
@@ -85,7 +85,7 @@ Runs on `http://localhost:3000`.
 
 ---
 
-## 🔑 Demo Login Credentials
+##  Demo Login Credentials
 
 | Email | Password | Username | Badge Tier |
 | :--- | :--- | :--- | :--- |
